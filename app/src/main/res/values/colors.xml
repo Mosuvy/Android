@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="abu2">#333333</color>
+    <color name="tes">#E0E0E0</color>
+    <color name="cd">#F5F5F5</color>
+    <color name="putih">#EDEDED</color>
+    <color name="biru">#122D4F</color>
+    <color name="putihh">#F9F7E4  </color>
+</resources>
